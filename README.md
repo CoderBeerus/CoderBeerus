@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI & ML Courses**
 
-- 👯 I’m looking to collaborate on **IoT Projects**
+- 🙋🏻 I’m looking to collaborate on **IoT Projects**
 
 - 🤝 I’m looking for help with **AI Development**
 
