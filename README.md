@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Bhaveshzanke7@gmail.com**
 
-- 📄 Know about my experiences [As a 2nd-year Instrumentation Engineering student at BVCOE and Technical Head of ISA (Instrumentation Society of Automation), I bridge core engineering with smart, future-driven tech. I’ve led projects like XENO AI and HomeGuardian, integrating Multiple Sensors and Microcontrollers , Custom Websites, and real-time AI systems. With deep skills in C++, Python, and modern web/app frameworks, I’m always building, and pushing boundaries.](As a 2nd-year Instrumentation Engineering student at BVCOE and Technical Head of ISA (Instrumentation Society of Automation), I bridge core engineering with smart, future-driven tech. I’ve led projects like XENO AI and HomeGuardian, integrating Multiple Sensors and Microcontrollers , Custom Websites, and real-time AI systems. With deep skills in C++, Python, and modern web/app frameworks, I’m always building, and pushing boundaries.)
+- 📄 Know about my experiences [As a 2nd-year Instrumentation Engineering student at BVCOE and Technical Head of ISA (Instrumentation Society of Automation), I bridge core engineering with smart, future-driven tech. I’ve led projects like XENO AI and HomeGuardian, integrating Multiple Sensors and Microcontrollers , Custom Websites, and real-time AI systems. With deep skills in C++, Python, and modern web/app frameworks, I’m always building, and pushing boundaries.]
 
 - ⚡ Fun fact **I love making Projects!**
 
