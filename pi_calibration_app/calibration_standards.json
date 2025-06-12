@@ -1,0 +1,25 @@
+{
+  "sensor_types": {
+    "ANALOG_VOLTAGE_CHECK": {
+      "value_key": "voltage",
+      "unit": "V",
+      "reference_points": [
+        {"name": "Low Voltage Point", "expected_value": 1.65, "tolerance_absolute": 0.1},
+        {"name": "High Voltage Point", "expected_value": 3.3, "tolerance_absolute": 0.15}
+      ],
+      "check_strategy": "closest_point"
+    },
+    "DHT22_TEMP": {
+      "value_key": "temperature_celsius",
+      "unit": "°C",
+      "reference_points": [
+        {"name": "Room Temperature", "expected_value": 25.0, "tolerance_absolute": 2.0}
+      ],
+      "check_strategy": "first_point"
+    }
+  },
+  "sensor_instance_to_type_mapping": {
+    "dp_sensor_1": "ANALOG_VOLTAGE_CHECK",
+    "temp_sensor_office": "DHT22_TEMP"
+  }
+}
